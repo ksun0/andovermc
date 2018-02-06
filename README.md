@@ -1,0 +1,2 @@
+# andovermc
+Andover Math Competition
